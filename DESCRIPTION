@@ -1,0 +1,18 @@
+Package: dbtools
+Title: Database Persistence Tools
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Troy James",
+           family = "Palanca",
+           role = c("aut", "cre"),
+           email = "mail@tjpalanca.com",
+           comment = c(ORCID = "0000-0002-0610-9213"))
+Description: 
+  Combines utilities to deal with reading from and writing to relational 
+  databases in a unified way, especially in a data engineering or web 
+  application context.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
