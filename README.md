@@ -19,3 +19,6 @@ or web application context.
 -   [SQLAlchemy](https://www.sqlalchemy.org/) and
     [Alembic](https://alembic.sqlalchemy.org/en/latest/) - gold standard
     in the Python ecosystem for interacting with relational databases.
+-   [Strapping.jl](https://juliadata.github.io/Strapping.jl/stable/) -
+    provides “straightforward, not-too-magical ORM capabilities in
+    Julia”, and a fit for more functionally oriented languages.
